@@ -1,0 +1,19 @@
+{
+  "name": "anil-node",
+  "version": "1.0.0",
+  "description": "touseeq",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "touseeq1",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "event-emitter": "^0.3.5",
+    "express": "^4.18.2",
+    "mongodb": "6.3",
+    "mongoose": "^8.0.0"
+  }
+}
